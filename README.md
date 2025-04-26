@@ -19,6 +19,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<a href="https://www.loom.com/share/ff065bdf4a024fc6b31fd6024e1a2203">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff065bdf4a024fc6b31fd6024e1a2203-9d3e7c30722d64a2-full-play.gif">
+</a>
+
 ## App Brainstorming (Step 4)
 
 Health App
